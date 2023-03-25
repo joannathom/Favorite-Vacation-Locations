@@ -1,7 +1,10 @@
 # Favorite-Vacation-Locations
 Data Information About Various Vacation Locations
 
-Before you do any of the below please activate your terminal to be in a virtual enviornent.
+# Project Objective:
+The project overall goal is to show the viewer what the best vacation locations are in the United States. The data will show the top places based on the amount of visitors, location, and cost of each trip. 
+# Requirements
+Before you do any of the below please activate your terminal to be in a virtual enviorment.
 python -m venv venv
 Source venv/scripts/activate for Windows Computers
 
