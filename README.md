@@ -1,12 +1,11 @@
 # Favorite-Vacation-Locations
 Data Information About Various Vacation Locations
 
-![image.png](attachment:image.png)
-
-## Just Like the Griswald's we all want a vacation at some point in the year....
+## Just like the Griswald's we all want a vacation at some point in the year....
 # Project Objective:
 The projects overall goal is to show the viewer what the best vacation locations are in the United States. The data will show the top places based on the amount of visitors, location, and cost of each trip. 
 
+# Analysis
 # Requirements:
 Before you do any of the below please activate your terminal to be in a virtual enviorment.
 python -m venv venv
