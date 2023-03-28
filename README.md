@@ -4,9 +4,8 @@ Data Information About Various Vacation Locations
 ![image.png](attachment:image.png)
 
 ## Just Like the Griswald's we all want a vacation at some point in the year....
-## Just like the Griswald's we all want a vacation at some point in the year....
 # Project Objective:
-The projects overall goal is to show the viewer what the best vacation locations are in the United States. The data will show the top places based on the amount of visitors, location, and cost of each trip. 
+this is a final project for Code Kentucky to demonstrate what we have learned throughout the Data Analyst Part 1 section. The projects overall goal is to show the viewer what the best vacation locations are in the United States. The data will show the top places based on the amount of visitors, location, and cost of each trip. The visuals will show the top rated places in the United States to visit. 
 
 # Analysis
 # Requirements:
