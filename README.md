@@ -33,10 +33,10 @@ To work with python data you will need to install these:
 * Visual Studio 
 
 # Features
-* Created a Repository in Github.
+* Created a repository in Github or fork existing repository.
 * Research and download a CVS data file to the github repository.
 * Juypter Notebooks will also need to be installed for a notebook and opened while using Visual Studio.
-  ## Skill Developed
+  ## Skills Developed
 * Reading data from a CSV file.
 * Exploring the Data with pandas to view the data in charts that pull each column.
 * Cleaning the Data adding a column and title, pulling out nun values.  
