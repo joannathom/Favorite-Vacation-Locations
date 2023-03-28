@@ -1,13 +1,12 @@
 # Favorite-Vacation-Locations
 Data Information About Various Vacation Locations
 
-![image.png](attachment:image.png)
 
 ## Just Like the Griswald's we all want a vacation at some point in the year....
 # Project Objective:
-this is a final project for Code Kentucky to demonstrate what we have learned throughout the Data Analyst Part 1 section. The projects overall goal is to show the viewer what the best vacation locations are in the United States. The data will show the top places based on the amount of visitors, location, and cost of each trip. The visuals will show the top rated places in the United States to visit. 
+This is a final project for Code Kentucky to demonstrate what we have learned throughout the Data Analyst Part 1 section. The projects overall goal is to show the viewer what the best vacation locations are in the United States. The data will show the top places based on the amount of visitors, location, and cost of each trip. The visuals will show the top rated places in the United States to visit. 
 
-# Analysis
+# Analysis:
 # Requirements:
 Before you do any of the below please activate your terminal to be in a virtual enviorment.
 python -m venv venv
