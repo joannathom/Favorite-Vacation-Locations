@@ -15,12 +15,15 @@ Before you do any of the below please activate your terminal to be in a virtual 
  * 'Source venv/scripts/activate' for Windows Computers
 
 Use this code to  set up the requirements file:
-'pip freeze > requirements.txt'
-'pip install -r requirements.txt'
+* 'pip freeze > requirements.txt'
+* 'pip install -r requirements.txt'
 
-The data used in the analysis you will need to install is to 
-import pandas as pd, import numpy as np and import matplotlib 
-to plot the data in charts.
+Then to explore and analyze the data you will need to install these below:
+* import pandas as pd 
+* import numpy as np
+* import pathlib  
+* import matplotlib 
+
 
 To work with python data you will need to use: 
 * Python 3.11 
@@ -28,7 +31,7 @@ To work with python data you will need to use:
 * Pandas 
 * Matplob lib 
 * Pathlib
-* Visual Studio. 
+* Visual Studio 
 # Features
 * Create a git hub to store repository for the project with a title 
 * Reserach and download a CVS data file to the github repository so that it can be pull to the gitbash and visual studio terminal. 
