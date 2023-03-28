@@ -10,9 +10,9 @@ Credit given to sources Web link: https://www.getyourguide.com/country-l168990/d
 CSV file from https://www.downloadexcelfiles.com/us_en/list-top-tourist-places-us#.ZBaO_HbMK5c&gsc.tab=0
 
 # Requirements:
-Before you do any of the below please activate your terminal to be in a virtual enviroment.
-'python -m venv venv'
-'Source venv/scripts/activate' for Windows Computers
+Before you do any of the below please activate your terminal to be in a virtual enviroment:
+ * 'python -m venv venv'
+ * 'Source venv/scripts/activate' for Windows Computers
 
 Use this code to  set up the requirements file:
 'pip freeze > requirements.txt'
@@ -20,8 +20,9 @@ Use this code to  set up the requirements file:
 
 The data used in the analysis you will need to install is to 
 import pandas as pd, import numpy as np and import matplotlib 
+to plot the data in charts.
 
-To work with python data you will need to use 
+To work with python data you will need to use: 
 * Python 3.11 
 * Jupyter Notebook 
 * Pandas 
