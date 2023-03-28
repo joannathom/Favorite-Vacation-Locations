@@ -26,9 +26,10 @@ Then to explore and analyze the data you will need to install these libraries li
 * import matplotlib 
 
 To work with python data you will need to install these: 
+* Gitbash or a Shell Terminal
+* Pandas as pd
 * Python 3.11 
 * Jupyter Notebook 
-* Pandas 
 * Visual Studio 
 
 # Features
