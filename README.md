@@ -9,7 +9,8 @@ These websites and sources are credited with the research and data for my projec
 * Credit given to sources Web link: https://www.getyourguide.com/country-l168990/day-trips-tc172?p=3&sort=popularity&order&searchContext=TRIP_ITEM_GROUP&collectionId=172&tcId=172
 * CSV file from https://www.downloadexcelfiles.com/us_en/list-top-tourist-places-us#.ZBaO_HbMK5c&gsc.tab=0
 
-# Requirements:
+# Requirements to Run the Program:
+* Open file Final-Project.ipynb
 Before you do any of the below please activate your terminal to be in a virtual enviroment:
  * `python -m venv venv`
  * `Source venv/scripts/activate` for Windows Computers
@@ -28,8 +29,6 @@ To work with python data you will need to install these:
 * Python 3.11 
 * Jupyter Notebook 
 * Pandas 
-* Matplob lib 
-* Pathlib
 * Visual Studio 
 
 # Features
