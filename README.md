@@ -53,6 +53,7 @@ To work with python data you will need to install these:
 # Plot a bar graph to show location to visitor ratio.
 'Vacation_df.plot.bar(title = "Favorite-Vacation-Locations", x = "Place", xlabel = "Locations", rot = 90, ylabel = "Vistiors(millions)")'
 
+# Plot a pie chart for percentages. 
 ## Import libraries
 from matplotlib import pyplot as plt
 import numpy as pd
