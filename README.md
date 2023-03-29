@@ -3,7 +3,7 @@ DATA INFORMATION ABOUT VARIOUS VACATION SPOTS
 
 ![Screenshot](IMG_15.png)
 
-JUST Like THE GRISWALD's...we all need a vacation...
+JUST LIKE THE GRISWALD's...we all need a vacation...
 
 This is a final project for Code Kentucky to demonstrate what we have learned throughout the Data Analyst Part 1 section. The projects overall goal is to show the viewer what the best vacation locations are in the United States. The data will show the top places based on the amount of visitors, location, and cost of each trip. The visuals will show the top rated places in the United States to visit. 
 These websites and sources are credited with the research and data for my project: 
@@ -34,15 +34,19 @@ To work with python data you will need to install these:
 * Visual Studio 
 
 # Features
-* Created a repository in Github or fork existing repository.
-* Research and download a CSV data file to the github repository.
-* Juypter Notebooks will also need to be installed for a notebook and opened while using Visual Studio.
-  ## Skills Developed
-* Reading data from a CSV file.
-* Exploring the Data with pandas to view the data in charts that pull each column.
-* Cleaning the Data adding a column and title, pulling out nun values.  
-* Analyzing the Data with Matplotlib to create a line chart, bar graph, and pie chart for percentanges. 
-
+## * Created a repository in Github or fork existing repository.
+    Researched and downloaded a CSV data file to the github repository.
+    Juypter Notebooks will also need to be installed for a notebook and opened while using Visual Studio.
+    ReadIn Data: Reading data from a CSV file.
+## * Exploring the Data 
+     Used pandas to view the data in charts that pull each column.
+## * Cleaning the Data 
+     Cleaned data by adding a column and title, pulling out nun values.  
+## * Analyzing the Data 
+     The charts were created using python code/Jupyter notebooks to show information. 
+     The data with Matplotlib to create a line chart, bar graph, and pie chart for percentanges. 
+## * Questions and Visualizations 
+     These were created with matplotlib to show the data analysis.
 
 # Questions 
 
