@@ -1,7 +1,7 @@
 # Favorite-Vacation-Locations
 Data Information About Various Vacation Locations
 
-![ScreenShot](screenshot.jpg)
+![ScreenShot](![image.png](attachment:image.png))
 
 ## Just Like the Griswald's we all want a vacation at some point in the year....
 # Project Objective:
