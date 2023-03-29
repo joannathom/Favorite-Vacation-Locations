@@ -1,6 +1,7 @@
 # Favorite-Vacation-Locations
 Data Information About Various Vacation Locations
 
+`![image.png](attachment:image.png)`
 
 ## Just Like the Griswald's we all want a vacation at some point in the year....
 # Project Objective:
@@ -34,7 +35,7 @@ To work with python data you will need to install these:
 
 # Features
 * Created a repository in Github or fork existing repository.
-* Research and download a CVS data file to the github repository.
+* Research and download a CSV data file to the github repository.
 * Juypter Notebooks will also need to be installed for a notebook and opened while using Visual Studio.
   ## Skills Developed
 * Reading data from a CSV file.
