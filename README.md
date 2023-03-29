@@ -13,8 +13,10 @@ These websites and sources are credited with the research and data for my projec
 # Requirements to Run the Program:
 * Open file Final-Project.ipynb
 Before you do any of the below please activate your terminal to be in a virtual enviroment:
- * `python -m venv venv`
+ * `python -m venv venv`for Windows 
  * `Source venv/scripts/activate` for Windows Computers
+ * `python3 -m venv venv`for Macs 
+ * `Source venv/bin/activate for` for Mac Computers
 
 Use this code to  set up the requirements file:
 * `pip freeze > requirements.txt`
@@ -52,10 +54,12 @@ To work with python data you will need to install these:
 
 * Which vacation location had the most visitors and the least visitors?
 * What is the visual percentage difference of the top 6 places to visit on vacation?
+* 
 # Visualizations 
+
 ## Create a line graph to show greatest to least on tourist populations each year
 `Vacation_df.plot(title = 'Favorite-Vacation-Locations', x = 'Place', xlabel = "Location", rot = 90)`
-![Screenshot](lineimage.pdf)
+
 ## Plot a bar graph to show location to visitor ratio.
 `Vacation_df.plot.bar(title = "Favorite-Vacation-Locations", x = "Place", xlabel = "Locations", rot = 90, ylabel = "Vistiors(millions)")`
 
