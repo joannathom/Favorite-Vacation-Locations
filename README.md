@@ -1,6 +1,8 @@
 # Favorite-Vacation-Locations
 DATA INFORMATION ABOUT VARIOUS VACATION SPOTS
+
 ![Screenshot](IMG_15.png)
+
 JUST Like the GRISWALD's we all need a vacation...
 This is a final project for Code Kentucky to demonstrate what we have learned throughout the Data Analyst Part 1 section. The projects overall goal is to show the viewer what the best vacation locations are in the United States. The data will show the top places based on the amount of visitors, location, and cost of each trip. The visuals will show the top rated places in the United States to visit. 
 These websites and sources are credited with the research and data for my project: 
