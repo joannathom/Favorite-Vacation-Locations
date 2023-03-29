@@ -55,6 +55,7 @@ To work with python data you will need to install these:
 # Visualizations 
 ## Create a line graph to show greatest to least on tourist populations each year
 `Vacation_df.plot(title = 'Favorite-Vacation-Locations', x = 'Place', xlabel = "Location", rot = 90)`
+![Screenshot](lineimage.pdf)
 ## Plot a bar graph to show location to visitor ratio.
 `Vacation_df.plot.bar(title = "Favorite-Vacation-Locations", x = "Place", xlabel = "Locations", rot = 90, ylabel = "Vistiors(millions)")`
 
