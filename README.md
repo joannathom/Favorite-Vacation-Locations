@@ -22,6 +22,12 @@ Use this code to  set up the requirements file:
 * `pip freeze > requirements.txt`
 * `pip install -r requirements.txt`
 
+Use these steps to save changes to the github repository:
+* git add <file>
+* git commit -m '<file>'
+* git push 
+* refresh repository to view changes online
+
 Then to explore and analyze the data you will need to install these libraries listed in requirement.txt these below:
 * import pandas as pd 
 * import numpy as np
