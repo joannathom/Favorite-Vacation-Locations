@@ -88,4 +88,4 @@ To work with python data you will need to install these:
 
 # Interpret Data and Graphical Output 
 
-Throughout the project in 'Final-Project.ipynb' I have # explaining the process with each code and then the reason for the output.The first step is to research the data and pull a csv to download with data and numbers to show the project set numbers, exploration of data, clean data adding or pulling columns, numbers not needed in the data set, and then of course plotting the data in line graphs, bar graphs, and pie chart plot so that the viewer understand what the analysis is trying to show them. 
+Throughout the project in 'Final-Project.ipynb' I have # explaining the process with each code and then the reason for the output.The first step is to research the data and pull a csv to download with data and numbers to show the project set numbers, exploration of data, clean data adding or pulling columns, numbers not needed in the data set, and then of course plotting the data in line graphs, bar graphs, and pie chart plot so that the viewer better understands what the analysis is trying to show them. 
