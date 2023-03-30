@@ -42,25 +42,27 @@ To work with python data you will need to install these:
 * Visual Studio 
 
 # Features
-## * Created a repository in Github or fork existing repository.
+
+## Feature 1: Exploring the Data 
+    Used pandas to view the data in charts that pull each column.
+    Created a repository in Github or fork existing repository.
     Researched and downloaded a CSV data file to the github repository.
     Juypter Notebooks will also need to be installed for a notebook and opened while using Visual Studio.
-    ReadIn Data: Reading data from a CSV file.
-## * Exploring the Data 
-     Used pandas to view the data in charts that pull each column.
-## * Cleaning the Data 
+* ReadIn Data: Reading data from a CSV file. 
+## Feature 2: Cleaning the Data 
      Cleaned data by adding a column and title, pulling out nun values.  
-## * Analyzing the Data 
+## Feature 3: Analyzing the Data 
      The charts were created using python code/Jupyter notebooks to show information. 
      The data with Matplotlib to create a line chart, bar graph, and pie chart for percentanges. 
-## * Questions and Visualizations 
-     These were created with matplotlib to show the data analysis.
+### * Questions and Visualizations 
+     These were created with matplotlib to show the data analysis below.
 
+
+# Feature 4:  Visualizations/Questions
 # Questions 
 
 * Which vacation location had the most visitors and the least visitors?
 * What is the visual percentage difference of the top 6 places to visit on vacation?
-# Visualizations 
 
 ## Create a line graph to show greatest to least on tourist populations each year
 `Vacation_df.plot(title = 'Favorite-Vacation-Locations', x = 'Place', xlabel = "Location", rot = 90)`
@@ -86,6 +88,6 @@ To work with python data you will need to install these:
 ## show plot
 `plt.show`
 
-# Interpret Data and Graphical Output 
+## Feature 5: Interpret Data and Graphical Output 
 
 Throughout the project in 'Final-Project.ipynb' I have # explaining the process with each code and then the reason for the output.The first step is to research the data and pull a csv to download with data and numbers to show the project set numbers, exploration of data, clean data adding or pulling columns, numbers not needed in the data set, and then of course plotting the data in line graphs, bar graphs, and pie chart plot so that the viewer better understands what the analysis is trying to show them. 
