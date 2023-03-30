@@ -60,7 +60,6 @@ To work with python data you will need to install these:
 
 * Which vacation location had the most visitors and the least visitors?
 * What is the visual percentage difference of the top 6 places to visit on vacation?
-* 
 # Visualizations 
 
 ## Create a line graph to show greatest to least on tourist populations each year
