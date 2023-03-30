@@ -41,7 +41,7 @@ To work with python data you will need to install these:
 * Jupyter Notebook 
 * Visual Studio 
 
-# Features
+# Features:
 
 ## Feature 1: Exploring the Data 
     Used pandas to view the data in charts that pull each column.
@@ -58,7 +58,7 @@ To work with python data you will need to install these:
      These were created with matplotlib to show the data analysis below.
 
 
-# Feature 4:  Visualizations/Questions
+## Feature 4:  Visualizations/Questions
 # Questions 
 
 * Which vacation location had the most visitors and the least visitors?
