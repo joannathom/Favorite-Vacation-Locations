@@ -5,7 +5,7 @@ DATA INFORMATION ABOUT VARIOUS VACATION SPOTS
 
 JUST LIKE THE GRISWALD's...we all need a vacation...
 
-This is my final project to demonstrate what we have learned throughout the Data Analyst Part 1 section. The projects overall goal is to show the viewer what the best vacation locations are in the United States. The data will show the top places based on the amount of visitors, location, and cost of each trip. The visuals will show the top rated places in the United States to visit. 
+ The projects overall goal is to show the viewer what the best vacation locations are in the United States. The data will show the top places based on the amount of visitors, location, and cost of each trip. The visuals will show the top rated places in the United States to visit. It will also show the data from greatest to least places to visit based on tourist numbers. But this could be a great resource for people who like areas with less traffic and tourist numbers. But then it could be a great resource for people who love the big crowds and the energy. 
 These websites and sources are credited with the research and data for my project: 
 * Credit given to sources Web link: https://www.getyourguide.com/country-l168990/day-trips-tc172?p=3&sort=popularity&order&searchContext=TRIP_ITEM_GROUP&collectionId=172&tcId=172
 * CSV file from https://www.downloadexcelfiles.com/us_en/list-top-tourist-places-us#.ZBaO_HbMK5c&gsc.tab=0
